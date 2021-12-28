@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "hi",
+    "company": "facebook",
+    "action": "sponser"
+  },
+  {
+    "id": 2,
+    "name": "krishnan",
+    "company": "Google",
+    "action": "Footballer"
+  }
+]
